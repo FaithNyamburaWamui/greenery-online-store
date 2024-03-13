@@ -1,0 +1,7 @@
+.header{
+    list-style: none;
+    gap: 20%;
+    display: flex;
+    color: white;
+    background-color: green;
+}
