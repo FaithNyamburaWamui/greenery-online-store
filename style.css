@@ -1,7 +1,91 @@
 .header{
     list-style: none;
-    gap: 20%;
+    gap: 5%;
     display: flex;
     color: white;
     background-color: green;
+}
+.top{
+    list-style: none;
+    gap:5%;
+    display: flex;
+}
+#body{
+    display: flex;
+    gap: 6%;
+    
+
+}
+#photo{
+    display: flex;
+    gap: 15%;
+}
+#list{
+    display: flex;
+    gap: 30%;
+}
+#image{
+    display:flex;
+    gap: 15%;
+}
+.image{
+    padding-left: 20%;
+}
+#head{
+    padding-left: 30%;
+}
+.head{
+    padding-left: 30%;
+}
+#text{
+    padding-left: 60%;
+    
+}
+#picture{
+    display: flex;
+    gap: 5%;
+}
+.picture{
+    display: flex;
+    gap: 5%; 
+}
+#statement{
+    display: flex;
+    gap: 3%;  
+}
+.statement{
+    display: flex;  
+    gap: 9%;  
+    
+}
+@media screen and (width:414px){
+    #image{
+        display:flex;
+        gap: 2%;
+    }
+    .image{
+        padding-left: 3%;
+    }
+    #head{
+        padding-left: 3%;
+    }
+    .head{
+        padding-left: 3%;
+    }
+    #text{
+        padding-left: 3%;
+        
+    }
+    #picture{
+        display: flex;
+        gap: 2%;
+    }
+    .picture{
+        display: flex;
+        gap: 2%; 
+    }
+    #statement{
+        display: flex;
+        gap: 1%;  
+    }
 }
