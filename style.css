@@ -1,7 +1,7 @@
 
 body{
-    margin-left: 10%;
-    margin-right: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .header{
     list-style: none;
@@ -58,7 +58,7 @@ body{
 }
 #photo{
     display: flex;
-    gap: 15%;
+    gap: 4%;
 }
 
 .photo{
@@ -88,7 +88,7 @@ body{
     }
 
     .sem{
-        /* padding-top: 13%; */
+         padding-top: 13%;
     }
 
 .all{
@@ -115,11 +115,11 @@ body{
 }
 #picture{
     display: flex;
-    gap: 5%;
+    gap: 2%;
 }
 .picture{
     display: flex;
-    gap: 5%; 
+    gap: 2%; 
 }
 #statement{
     display: flex;
